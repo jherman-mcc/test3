@@ -8,7 +8,7 @@ fun main(args: Array<String>) {
     var myBoolean: Boolean = true
     var myString: String = "This is an easy way to do it."
 
-    println("This value is an integer $myInt")
+    println("This new value is an integer $myInt")
     println("This value is a Double Integer $myDoubleInt")
     println("This value is a Byte $myByte")
     println("This value is a Short $myShort")
